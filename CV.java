@@ -22,7 +22,7 @@ public class CV {
 
 	public static void main( String[] args ) {
 		
-		String[] tabCompsJulien = { "Rigoureux", "Perfectionniste", "Ponctuel" };
+		String[] tabCompsJulien = { "Rigoureux", "Perfectionniste", "Ponctuel", "travailleur" };
 		
 		String[] tabCompsPaul = { "Ponctuel" };
 		
